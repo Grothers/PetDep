@@ -28,11 +28,11 @@
             <version>${telegrambot.starter.version}</version>
         </dependency>
 
-<!--        <dependency>-->
-<!--            <groupId>ua.duikttop</groupId>-->
-<!--            <artifactId>common-rabbitmq</artifactId>-->
-<!--            <version>1.0-SNAPSHOT</version>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>ua.duikttop</groupId>
+            <artifactId>common-rabbitmq</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
 <!--        <dependency>-->
 <!--            <groupId>org.springframework.boot</groupId>-->
